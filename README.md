@@ -1,5 +1,5 @@
 # Hi there 👋
-**I'm Kurt (he/they)** - I'm a student studying Computer Science. 
+**I'm Kurt (he/they)** - I'm a student studying Computer Science. The code below is tested, if you're going to run it, just uncomment the free keyword to avoid memory leaks, I commented it for introduction purposes.
 ```c
 #include <stdio.h>
 #include <stdlib.h>
