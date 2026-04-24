@@ -1,24 +1,5 @@
 # Hi there 👋
-**I'm Kurt (he/they)** - I'm a student studying Computer Science. The code below is tested, if you're going to run it, just uncomment the free keyword to avoid memory leaks, I commented it for introduction purposes.
-```c
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
-int main() {
-	char *s = "Kurt";
-	char *name = malloc(4 * sizeof(char));
-
-	for (int i = 0, n = strlen(s); i <= n; i++)
-	{
-		name[i] = s[i];
-	}
-
-	printf("I am %s\n", name);
-
-	// free(name);
-}
-```
+**I'm Kurt (he/they)** - I'm a student studying Computer Science. 
 
 ## More about me
 - I'm developing a mobile application
@@ -27,4 +8,4 @@ int main() {
 - I survive on 4gb of RAM, HDD, and an old processor
 - I use a custom ROM on my android device
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,git,github,kotlin,linux,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,git,github,kotlin,linux,py)](https://skillicons.dev)
