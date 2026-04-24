@@ -28,6 +28,3 @@ int main() {
 - I use a custom ROM on my android device
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,git,github,kotlin,linux,py)](https://skillicons.dev)
-
-![Music](https://img.shields.io/badge/"Listening_to"-Shogeki-green?logo=spotify)
-
